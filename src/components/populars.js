@@ -1,0 +1,27 @@
+export const Populars=[
+    {
+        Image:'',
+        name:'',
+        price:''
+    },
+    {
+        Image:'',
+        name:'',
+        price:''
+    },
+    {
+        Image:'',
+        name:'',
+        price:''
+    },
+    {
+        Image:'',
+        name:'',
+        price:''
+    },
+    {
+        Image:'',
+        name:'',
+        price:''
+    }
+]

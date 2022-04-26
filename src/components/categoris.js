@@ -1,22 +1,22 @@
-export const Categoris=[
+export const categoris=[
     {
-        Image:'',
-        name:'',
+        img:'https://mcdonalds.ru/upload/iblock/973/2512_BigTasty_Double_1500x1500_min.png',
+        name:'Бургеры',
     },
     {
-        Image:'',
-        name:'',
+        img:'https://mcdonalds.ru/upload/iblock/1b6/0000_Chicken_wings_new_7_1500x1500_min.png',
+        name:'Картофель',
     },
     {
-        Image:'',
-        name:'',
+        img:'https://mcdonalds.ru/upload/iblock/182/2121_Ceasar_Roll_Bacon_1500x1500-_2_min.png',
+        name:'Салаты',
     },
     {
-        Image:'',
-        name:'',
+        img:'https://mcdonalds.ru/upload/iblock/158/5045_milkshake_vanila05_1500x1500_min.png',
+        name:'Напитки',
     },
     {
-        Image:'',
-        name:'',
+        img:'https://mcdonalds.ru/upload/iblock/cb0/4002_Donat_vanil_1500x1500-_1_.png',
+        name:'Десерты',
     }
 ]

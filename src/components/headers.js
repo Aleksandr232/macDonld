@@ -6,7 +6,7 @@ const Headers=()=>{
             <View>
            <TouchableHighlight onPress={()=>Linking.openURL('https://mcdonalds.ru/')}>
            <Image source={{
-                uri:'https://e7.pngegg.com/pngimages/646/484/png-clipart-mcdonald-s-logo-yellow-angle-font-mcdonald-s-logo-text-orange.png'
+                uri:'https://kirovskiy.ru/upload/iblock/ec8/ec8310bd6a3a14130896df93ed6fbfc4.png'
             }} 
             style={{
                 width:70,
@@ -18,7 +18,7 @@ const Headers=()=>{
            <View>
            <TouchableHighlight onPress={()=>Linking.openURL('https://mcdonalds.ru/')}>
            <Image source={{
-                uri:'https://e7.pngegg.com/pngimages/899/256/png-clipart-computer-icons-shopping-cart-shopping-cart-desktop-wallpaper-commerce.png'
+                uri:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVAJg-q10AaUkhV8By-7bE8noJDLerli1Evg&usqp=CAU'
             }} 
             style={{
                 width:70,
